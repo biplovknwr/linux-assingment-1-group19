@@ -1,0 +1,12 @@
+1. What is the difference between the Linux kernel and the shell?
+In the LINUX system, the kernel constantly interfaces with the computer elements-hardware 
+and software-to provide processing capabilities, memory management, multitasking, and 
+allocation of system resources. The shell represents a user interface that allows communication 
+with the Linux kernel by entering commands. In simple words, the kernel does the work, and 
+the shell gives us a way to tell the system what to do.
+
+2. Explain the difference between an absolute path and a relative path with one example of 
+each.
+An absolute path names the location of a file or directory starting at the root (/), so it points 
+always to the same place at all times (for instance /home/user/docs/file.txt). By contrast, 
+relative paths give the location in relation to your working directory (e.g., ../images/pic.png 
